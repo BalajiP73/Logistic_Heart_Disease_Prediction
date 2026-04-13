@@ -1,3 +1,4 @@
+<img width="357" height="672" alt="image" src="https://github.com/user-attachments/assets/49a59a3e-d57d-4e0a-af64-17377514d042" />
 ❤️ Logistic Heart Disease Prediction
 
 A Machine Learning project that predicts the presence of heart disease using Logistic Regression. This project demonstrates how classification algorithms can be applied to healthcare data for early diagnosis and decision-making.
